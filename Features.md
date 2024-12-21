@@ -6,36 +6,36 @@
 
 
 # Devops Features 
-### Deploy in Dev
-## From github action deploy in dev environment
-## Nginx proxy for frontend 
-## Api gateway config with nginx / kong for micro services
+## Deploy in Dev
+### From github action deploy in dev environment
+### Nginx proxy for frontend 
+### Api gateway config with nginx / kong for micro services
 
 
-### Deploy In Prod
-## Github Action and Terrafrom Configurations
-## Deploy in Prod using terrafrom
-## Create DB replication
-## DC and DR preparation with HA
-## Manual Failover  
+## Deploy In Prod
+### Github Action and Terrafrom Configurations
+### Deploy in Prod using terrafrom
+### Create DB replication
+### DC and DR preparation with HA
+### Manual Failover  
 
 
 
-### Monitor and Logging DC and DR
-## Monitoring Grafana Prometheus  
-## Logging ELK
-## Alerting 
+## Monitor and Logging DC and DR
+### Monitoring Grafana Prometheus  
+### Logging ELK
+### Alerting 
 
 
-### Compliances 
+## Compliances 
 
-## Password rotation and Policy for System
-## Log Preservation For Future Usage
-## Session Timeout For Users
-## Periodical DB Backup with Snap
+### Password rotation and Policy for System
+### Log Preservation For Future Usage
+### Session Timeout For Users
+### Periodical DB Backup with Snap
 
 
-### Migrations From Standalone Servers To Kubernetes with Planning 
+## Migrations From Standalone Servers To Kubernetes with Planning 
 
 
 
